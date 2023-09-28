@@ -1,5 +1,5 @@
+//https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
 package solutions.rishab.Arrays.Searching.binarySearch;
-
 public class CapacityToShipPackagesWithinDDays {
     public int shipWithinDays(int[] weights, int days) {
         int maxWeight=0;

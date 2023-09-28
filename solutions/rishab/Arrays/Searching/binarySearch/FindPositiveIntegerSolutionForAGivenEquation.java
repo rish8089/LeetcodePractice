@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/
 package solutions.rishab.Arrays.Searching.binarySearch;
 
 import java.util.ArrayList;

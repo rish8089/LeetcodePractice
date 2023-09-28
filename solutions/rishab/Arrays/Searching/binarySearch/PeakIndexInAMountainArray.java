@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/peak-index-in-a-mountain-array/
 package solutions.rishab.Arrays.Searching.binarySearch;
 
 public class PeakIndexInAMountainArray {

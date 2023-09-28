@@ -1,3 +1,5 @@
+//https://leetcode.com/problems/find-all-duplicates-in-an-array/
+
 package solutions.rishab.Arrays.Searching.tricky;
 
 import java.util.ArrayList;
